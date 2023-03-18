@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ChenChingYen/rsuite-test/static/css/main.d37036cb.css",
-    "main.js": "/ChenChingYen/rsuite-test/static/js/main.d304372d.js",
-    "index.html": "/ChenChingYen/rsuite-test/index.html",
-    "main.d37036cb.css.map": "/ChenChingYen/rsuite-test/static/css/main.d37036cb.css.map",
-    "main.d304372d.js.map": "/ChenChingYen/rsuite-test/static/js/main.d304372d.js.map"
+    "main.css": "/rsuite-test/static/css/main.d37036cb.css",
+    "main.js": "/rsuite-test/static/js/main.d304372d.js",
+    "index.html": "/rsuite-test/index.html",
+    "main.d37036cb.css.map": "/rsuite-test/static/css/main.d37036cb.css.map",
+    "main.d304372d.js.map": "/rsuite-test/static/js/main.d304372d.js.map"
   },
   "entrypoints": [
     "static/css/main.d37036cb.css",
