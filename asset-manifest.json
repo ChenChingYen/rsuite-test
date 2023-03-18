@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChenChingYen/rsuite-test/static/css/main.e4478e0a.css",
+    "main.js": "/ChenChingYen/rsuite-test/static/js/main.897be680.js",
+    "index.html": "/ChenChingYen/rsuite-test/index.html",
+    "main.e4478e0a.css.map": "/ChenChingYen/rsuite-test/static/css/main.e4478e0a.css.map",
+    "main.897be680.js.map": "/ChenChingYen/rsuite-test/static/js/main.897be680.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4478e0a.css",
+    "static/js/main.897be680.js"
+  ]
+}
